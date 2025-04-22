@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PO_KontoBankowe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea6e40fe717b0a4ead9d7fd61a48e01e46444bda")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0daa5af99d7304bd5dca4897a72903b63608d031")]
 [assembly: System.Reflection.AssemblyProductAttribute("PO_KontoBankowe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PO_KontoBankowe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
