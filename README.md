@@ -1,0 +1,1 @@
+Zadanie polega na stworzeniu prostej hierarchii dziedziczenia z klasą bazową KontoBankowe i klasą pochodną KontoOszczednosciowe. Założeniem programu jest to, aby wpłacając pieniądze na konto poprzez metodę Wplac(kwota) w przypadku KontoOszczednosciowe do salda doliczały się odsetki.
