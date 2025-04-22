@@ -1,0 +1,15 @@
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_KontoBankowe\bin\Debug\net9.0\PO_KontoBankowe.exe
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_KontoBankowe\bin\Debug\net9.0\PO_KontoBankowe.deps.json
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_KontoBankowe\bin\Debug\net9.0\PO_KontoBankowe.runtimeconfig.json
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_KontoBankowe\bin\Debug\net9.0\PO_KontoBankowe.dll
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_KontoBankowe\bin\Debug\net9.0\PO_KontoBankowe.pdb
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_KontoBankowe\obj\Debug\net9.0\PO_KontoBankowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_KontoBankowe\obj\Debug\net9.0\PO_KontoBankowe.AssemblyInfoInputs.cache
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_KontoBankowe\obj\Debug\net9.0\PO_KontoBankowe.AssemblyInfo.cs
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_KontoBankowe\obj\Debug\net9.0\PO_KontoBankowe.csproj.CoreCompileInputs.cache
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_KontoBankowe\obj\Debug\net9.0\PO_KontoBankowe.sourcelink.json
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_KontoBankowe\obj\Debug\net9.0\PO_KontoBankowe.dll
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_KontoBankowe\obj\Debug\net9.0\refint\PO_KontoBankowe.dll
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_KontoBankowe\obj\Debug\net9.0\PO_KontoBankowe.pdb
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_KontoBankowe\obj\Debug\net9.0\PO_KontoBankowe.genruntimeconfig.cache
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_KontoBankowe\obj\Debug\net9.0\ref\PO_KontoBankowe.dll
